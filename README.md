@@ -44,7 +44,6 @@ This updates `model.pkl` and the three encoder files in the current folder.
 ## Model details
 
 The model uses these inputs:
-
 - Fuel type
 - Number of doors
 - Car body style
